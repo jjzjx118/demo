@@ -1,16 +1,16 @@
 {
-    "en":{
-      "translations": {
-        "Hello": "Hello",
-        "welcome": "welcome",
-        "Use string as key": "Use string as key"
-      }
-    },
-    "de": {
-      "translations": {
-        "Use string as key": "Use string as key_de",
-        "Hello": "Hello_de",
-        "welcome": "welcome_de"
-      }
-    }
-  }
+	"en": {
+		"translations": {
+			"Hello": "Hello",
+			"welcome": "welcome",
+			"Use string as key": "Use string as key"
+		}
+	},
+	"de": {
+		"translations": {
+			"Use string as key": "Use string as key_de",
+			"Hello": "Hello_de",
+			"welcome": "welcome_de"
+		}
+	}
+}
